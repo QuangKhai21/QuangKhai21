@@ -42,7 +42,7 @@
 
 | Dự Án | Công Nghệ | Demo |
 |-------|-----------|------|
-| 📸 **PhotoBooth WebApp** | JavaScript, Canvas API | [Xem Demo](https://quangkhi21.github.io/photobooth.com/) |
+| 📸 **PhotoBooth WebApp** | JavaScript, Canvas API | [Xem Demo](https://QuangKhai21.github.io/photobooth.com/) |
 | 🛒 **Website Bán Hàng** | ASP.NET Core MVC, SQL Server | *Đang triển khai* |
 
 ---

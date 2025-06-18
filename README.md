@@ -16,7 +16,8 @@
 ### 🖤 Giao diện tối
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/QuangKhai21/QuangKhai21/main/banner-dark.png" width="90%" alt="Banner"/>
+  <img src="https://chat.openai.com/c/your_convo_id/banner-dark.png" width="100%"/>
+
 </div>
 
 ---
